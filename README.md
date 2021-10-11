@@ -1,4 +1,4 @@
-# chess_game
+# Chess Game
 
 A new Flutter project.
 
